@@ -124,6 +124,6 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # Stripe Webhook Locale with Testing p and s Keys
-STRIPE_PUBLIC_KEY = 'pk_test_51NMuJ8BP7114LU5pIcE6GYDGb6EpgIzTw75L3qyouukYDdGK93eVmJsdqaTBiJNWGGut41UFLs6ijF4UNUfNOhZw00mDpvP9Vg'
-STRIPE_SECRET_KEY = 'sk_test_51NMuJ8BP7114LU5pMJsJPYlpRCIImuybpg5rbdcysqt9ZG6jueBRvOOsbH7s2C0B1TKryJv2SPuaLJxmXa41yOCU00CkJgNeek'
-DJSTRIPE_WEBHOOK_SECRET = 'whsec_522ef93b991f232270f3ae12a4ad704ab5f3bea993e994bd25f2a30d4ff54371'
+STRIPE_PUBLIC_KEY = 'API Key placeholder'
+STRIPE_SECRET_KEY = 'tripeSecretKey Placeholed'
+DJSTRIPE_WEBHOOK_SECRET = 'key placeholder'

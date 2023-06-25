@@ -65,7 +65,7 @@ def generate_tier4_content():
 
 import openai
 
-openai.api_key = "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"
+openai.api_key = "secretAPIKEY"
 
 
 def generate_tier1_content():
